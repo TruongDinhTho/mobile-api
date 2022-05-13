@@ -1,0 +1,22 @@
+{
+    "mobile" :[
+        {
+            "Id": 0,
+            "Ten": "Ip 13",
+            "Hang": "Apple",
+            "Gia": "31290000"
+        },
+        {
+            "Id": 1,
+            "Ten": "Reno 7",
+            "Hang": "Oppo",
+            "Gia": "21000000"
+        },
+        {
+            "Id": 2,
+            "Ten": "Ip13",
+            "Hang": "Apple",
+            "Gia": "31290000"
+        }
+    ]
+}
